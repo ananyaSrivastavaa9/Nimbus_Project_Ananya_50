@@ -15,9 +15,10 @@ To manage traffic violations, calculate fines, track repeat offenders, and gener
 4. Used file I/O to save records.
 
 ## How to Use
-1. Compile the code: `gcc traffic.c -o traffic`
-2. Run the executable: `./traffic.exe`
-3. Follow the menu options:
+1. open terminal and write cd trafficViolationProject
+2. Compile the code: `gcc traffic.c -o traffic`
+3. Run the executable: `./traffic`
+4. Follow the menu options:
    - Add violation
    - Apply penalties
    - Mark as paid
