@@ -16,7 +16,7 @@ To manage traffic violations, calculate fines, track repeat offenders, and gener
 
 ## How to Use
 1. Compile the code: `gcc traffic.c -o traffic`
-2. Run the executable: `./traffic`
+2. Run the executable: `./traffic.exe`
 3. Follow the menu options:
    - Add violation
    - Apply penalties
