@@ -1,4 +1,5 @@
 # Traffic Violation & Penalty System
+This project handles traffic violations.
 
 ## Project Objective
 To manage traffic violations, calculate fines, track repeat offenders, and generate a summary report with revenue collection.
