@@ -6,12 +6,12 @@ typedef struct {
     char plate[20];
     char violation_type[60];
     float base_fine;
-    int paid;           // 0 = unpaid, 1 = paid
-    int repeat_count;   // number of times this license has violated
+    int paid;
+    int repeat_count;
 } Record;
 
 void insertRecord(Record *list, int *size) {
-    printf("\n--- Add New Violation ---\n");
+    printf("\n--Add New Violation--\n");
     printf("License Number: ");
     scanf("%s", list[*size].plate);
 
@@ -52,7 +52,7 @@ void setPaymentStatus(Record *list, int size, const char *plateNo) {
 void showSummary(const Record *list, int size) {
     float revenue = 0;
 
-    printf("\n======== Violation Summary Report ========\n");
+    printf("\n== Violation Summary Report ==\n");
 
     for (int i = 0; i < size; i++) {
         printf("License: %-12s | Offense: %-20s | Fine: ₹%.2f | Status: %s\n",
@@ -96,7 +96,7 @@ int main() {
     int option;
     char searchPlate[20];
 
-    printf("====== Traffic Violation & Penalty System ======\n");
+    printf("== Traffic Violation & Penalty System ==\n");
 
     do {
         printf("\nMenu:\n");
