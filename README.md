@@ -27,7 +27,8 @@ To manage traffic violations, calculate fines, track repeat offenders, and gener
    - Save & exit
 
 <img width="1904" height="967" alt="image" src="https://github.com/user-attachments/assets/f55027d8-4f6f-44c0-8290-de2ad658c41c" />
-
+<img width="1919" height="882" alt="Screenshot 2025-11-30 003029" src="https://github.com/user-attachments/assets/b73d42c8-0e08-44c0-ba41-dda0565c42e4" />
+<img width="1918" height="883" alt="Screenshot 2025-11-30 002949" src="https://github.com/user-attachments/assets/caae28de-f90e-4a57-84d2-3121a0ba0a12" />
 
 
 
